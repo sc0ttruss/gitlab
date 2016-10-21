@@ -1,2 +1,3 @@
 # gitlab
-Install gitlab
+
+installs gitlab from rpm 
